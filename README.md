@@ -3,6 +3,8 @@
 - 🔭 Hoje procuro trabalho em desenvolvimento web.
 - 🌱 Estou estudando ReactJs e Java.
 - 😄 Pronomes: ele/dele
+- 🚀 Estou aberto a colaborar em projetos que tenham um alto impacto na vida das pessoas.
+- ⚡ Eu adoro musica e esportes, toco teclado, violão e bateria e amo Futebol(palmeirense raiz).
 
 <div> 
   <a href = "mailto:leo.d.anderson@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
